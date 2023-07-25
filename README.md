@@ -1,6 +1,6 @@
 
 # Scratch-Card
-A Pen created on CodePen.io. Original URL :
+A Pen created on CodePen.io. Original URL :https://codepen.io/kunal7216/pen/dyQqdBm
 
 
 ![Screenshot 2023-07-25 150017](https://github.com/kunal7216/Scratch-Card/assets/112888767/0ba9af4b-538e-42fb-9af3-9ce8f880c7e7)
